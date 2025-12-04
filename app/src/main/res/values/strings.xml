@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DroidFakeCamera</string>
+    <string name="tab_sources">Sources</string>
+    <string name="tab_module">Module</string>
+    <string name="install_module">Install Module ZIP</string>
+    <string name="check_root">Check Root</string>
+    <string name="check_magisk">Check Magisk</string>
+    <string name="toggle_virtual_cam">Enable Virtual Camera</string>
+    <string name="broadcast_config">Broadcast Config</string>
+    <string name="select_video">Select Video</string>
+    <string name="select_image">Select Image</string>
+    <string name="current_scope">Target App Scopes</string>
+    <string name="module_status_unknown">Module status unknown</string>
+    <string name="magisk_missing">Magisk not detected</string>
+    <string name="root_missing">Root not available</string>
+    <string name="module_ready">Magisk module ready</string>
+    <string name="config_written">Configuration written to module</string>
+</resources>
